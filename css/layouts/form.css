@@ -1,0 +1,43 @@
+.bottom-border
+ {
+    border-bottom:1px solid gray;
+ }
+    
+#preview
+ {
+ 	margin:auto;
+ }
+#preview-container
+ {
+    text-align: center;
+    margin:10px;
+    background-color: #292929;
+    color:white;
+ }
+ h2
+  {
+  	text-decoration: underline;
+  }
+ h4
+ {
+
+    line-height: 0.1em;
+ }
+.chk
+ {
+    position:absolute;
+ }
+.chk>img
+ {
+    position:absolute;
+    margin-left: 20%;
+    margin-top: 20%;
+ }
+button
+ {
+ 	margin:5px;
+ }
+.white
+ {
+ 	color:white;
+ }

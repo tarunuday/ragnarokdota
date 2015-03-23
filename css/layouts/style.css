@@ -1,0 +1,60 @@
+.main-container
+ {
+    background-color: red;
+    width:80%;
+    height:120%;
+    margin:auto;
+ }
+a 
+ {
+ 	text-decoration: none;
+ }
+.blank-up
+ {
+ 	margin-top: 10%
+ }
+.blank-down
+ {
+ 	margin-bottom: 10%
+ }
+.blank-up-1
+ {
+ 	margin-top: 1%
+ }
+.blank-down-1
+ {
+ 	margin-bottom: 1%
+ }
+.blank-up-5
+ {
+ 	margin-top: 5%
+ }
+.blank-down-5
+ {
+ 	margin-bottom: 5%
+ }
+.b-left
+ {
+ 	border-left: 1px solid #aaa;
+ }
+.b-right
+ {
+ 	border-right: 1px solid #aaa;
+ }
+.content-wrapper-up {
+    position: absolute;
+    width: 100%;
+    min-height: 12%;
+    z-index: 2;
+    background: white;
+
+}
+.content-wrapper-almost {
+    position: absolute;
+    top:80%;
+    width: 100%;
+    min-height: 12%;
+    z-index: 2;
+    background: white;
+
+}

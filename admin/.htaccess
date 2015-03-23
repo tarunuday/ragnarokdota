@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Authentication Required"
+AuthUserFile /home2/nitcfest/public_html/ragam.org.in/dota2/admin/.htpasswd
+Require valid-user

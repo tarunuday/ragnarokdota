@@ -1,0 +1,15 @@
+.team
+ {
+ 	border-bottom: 3px solid black;
+ 	border-right: 3px solid black;
+ 	font-family: Gill Sans MT;
+ }
+td
+ {
+ 	text-decoration:none;
+ 	padding:3px;
+ }
+.dis
+ {
+ 	color:red;
+ }

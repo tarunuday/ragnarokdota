@@ -1,0 +1,8 @@
+[16-Mar-2015 10:39:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/nitcfest/public_html/ragam.org.in/dota2/working/include/dbconfig.php on line 67
+[16-Mar-2015 10:39:57 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home2/nitcfest/public_html/ragam.org.in/dota2/working/include/dbconfig.php on line 34
+[16-Mar-2015 10:41:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/nitcfest/public_html/ragam.org.in/dota2/working/include/dbconfig.php on line 67
+[16-Mar-2015 10:41:55 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home2/nitcfest/public_html/ragam.org.in/dota2/working/include/dbconfig.php on line 34
+[16-Mar-2015 10:43:06 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home2/nitcfest/public_html/ragam.org.in/dota2/working/include/dbconfig.php on line 67
+[16-Mar-2015 10:43:06 America/Chicago] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home2/nitcfest/public_html/ragam.org.in/dota2/working/include/dbconfig.php on line 34
+[16-Mar-2015 10:50:24 America/Chicago] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ')' in /home2/nitcfest/public_html/ragam.org.in/dota2/working/include/dbconfig.php on line 108
+[16-Mar-2015 10:54:50 America/Chicago] PHP Fatal error:  Cannot use object of type stdClass as array in /home2/nitcfest/public_html/ragam.org.in/dota2/working/include/dbconfig.php on line 108
